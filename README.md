@@ -6,3 +6,6 @@
 - Data Aggregator вычисляет скользящую агрегацию
 - DB Loader сохраняет в Postgres
 - API Gateway (FastAPI) предоставляет HTTP API для получения данных из Postgres
+
+
+## Структура проекта
